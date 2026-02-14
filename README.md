@@ -6,6 +6,5 @@ Create a machine learning model to indentify customers who will make a specific 
 ## Content
 * Introduction
 * Data preprocessing
-* Data analysis
 * Machine learning models analysis
 * Test data submission
